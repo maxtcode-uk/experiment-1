@@ -1,0 +1,9 @@
+# One search per line. Brand + item type works best.
+carhartt jacket
+ralph lauren polo
+patagonia fleece
+stone island jumper
+arc'teryx jacket
+levis 501
+barbour jacket
+nike tech fleece
